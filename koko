@@ -1,0 +1,24 @@
+class Solution {
+    public int minEatingSpeed(int[] piles, int h) {
+        int min =1;
+        Arrays.sort(piles);
+        int max = piles[piles.length-1];
+        int an = max;
+        while(min<=max){
+            long hours = 0;
+            int mid = min+(max-min)/2;
+            for(int pile :piles){
+                hours += (pile+mid-1)/mid;
+            }
+            if(hours<=(long)h){
+                an = mid;
+                max = mid-1;
+            }else{
+                min = mid+1;
+            }
+            
+        }
+        return an;
+        
+    }
+}

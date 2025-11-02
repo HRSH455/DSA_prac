@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/HRSH455/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HRSH455/DSA_prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/HRSH455/DSA_prac/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HRSH455/DSA_prac/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HRSH455/DSA_prac/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HRSH455/DSA_prac/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/HRSH455/DSA_prac/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/HRSH455/DSA_prac/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->

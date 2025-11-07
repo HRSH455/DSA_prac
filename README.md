@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/HRSH455/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HRSH455/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/HRSH455/DSA_prac/tree/master/0402-remove-k-digits) |
+| [0937-online-stock-span](https://github.com/HRSH455/DSA_prac/tree/master/0937-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/HRSH455/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HRSH455/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/HRSH455/DSA_prac/tree/master/0402-remove-k-digits) |
+| [0937-online-stock-span](https://github.com/HRSH455/DSA_prac/tree/master/0937-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Hash Table
 |  |
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/HRSH455/DSA_prac/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/HRSH455/DSA_prac/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

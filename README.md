@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/HRSH455/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HRSH455/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HRSH455/DSA_prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HRSH455/DSA_prac/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -90,12 +91,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HRSH455/DSA_prac/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HRSH455/DSA_prac/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HRSH455/DSA_prac/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HRSH455/DSA_prac/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

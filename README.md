@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HRSH455/DSA_prac/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HRSH455/DSA_prac/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HRSH455/DSA_prac/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/HRSH455/DSA_prac/tree/master/3644-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HRSH455/DSA_prac/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HRSH455/DSA_prac/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/HRSH455/DSA_prac/tree/master/3644-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0209-minimum-size-subarray-sum) |
+| [3644-minimum-positive-sum-subarray](https://github.com/HRSH455/DSA_prac/tree/master/3644-minimum-positive-sum-subarray) |
 ## Rolling Hash
 |  |
 | ------- |

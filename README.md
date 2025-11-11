@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HRSH455/DSA_prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
+| [0474-ones-and-zeroes](https://github.com/HRSH455/DSA_prac/tree/master/0474-ones-and-zeroes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HRSH455/DSA_prac/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/HRSH455/DSA_prac/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/HRSH455/DSA_prac/tree/master/0168-excel-sheet-column-title) |
 | [0402-remove-k-digits](https://github.com/HRSH455/DSA_prac/tree/master/0402-remove-k-digits) |
+| [0474-ones-and-zeroes](https://github.com/HRSH455/DSA_prac/tree/master/0474-ones-and-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/HRSH455/DSA_prac/tree/master/0085-maximal-rectangle) |
+| [0474-ones-and-zeroes](https://github.com/HRSH455/DSA_prac/tree/master/0474-ones-and-zeroes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [0474-ones-and-zeroes](https://github.com/HRSH455/DSA_prac/tree/master/0474-ones-and-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/HRSH455/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/HRSH455/DSA_prac/tree/master/0724-find-pivot-index) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HRSH455/DSA_prac/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/HRSH455/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HRSH455/DSA_prac/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HRSH455/DSA_prac/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/HRSH455/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HRSH455/DSA_prac/tree/master/0724-find-pivot-index) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HRSH455/DSA_prac/tree/master/3644-minimum-positive-sum-subarray) |
 ## Rolling Hash

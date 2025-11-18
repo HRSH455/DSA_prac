@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HRSH455/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/HRSH455/DSA_prac/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/HRSH455/DSA_prac/tree/master/1046-max-consecutive-ones-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HRSH455/DSA_prac/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HRSH455/DSA_prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/HRSH455/DSA_prac/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/HRSH455/DSA_prac/tree/master/1046-max-consecutive-ones-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HRSH455/DSA_prac/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HRSH455/DSA_prac/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HRSH455/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HRSH455/DSA_prac/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/HRSH455/DSA_prac/tree/master/1046-max-consecutive-ones-iii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/HRSH455/DSA_prac/tree/master/3644-minimum-positive-sum-subarray) |
 ## Rolling Hash
 |  |

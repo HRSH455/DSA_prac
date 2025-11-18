@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HRSH455/DSA_prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/HRSH455/DSA_prac/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/HRSH455/DSA_prac/tree/master/0168-excel-sheet-column-title) |
 | [0402-remove-k-digits](https://github.com/HRSH455/DSA_prac/tree/master/0402-remove-k-digits) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HRSH455/DSA_prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/HRSH455/DSA_prac/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HRSH455/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HRSH455/DSA_prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |

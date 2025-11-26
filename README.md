@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/HRSH455/DSA_prac/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/HRSH455/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/HRSH455/DSA_prac/tree/master/0474-ones-and-zeroes) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HRSH455/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HRSH455/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HRSH455/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HRSH455/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HRSH455/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HRSH455/DSA_prac/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HRSH455/DSA_prac/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/HRSH455/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HRSH455/DSA_prac/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HRSH455/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HRSH455/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HRSH455/DSA_prac/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HRSH455/DSA_prac/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |

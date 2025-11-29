@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/HRSH455/DSA_prac/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/HRSH455/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HRSH455/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/HRSH455/DSA_prac/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HRSH455/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HRSH455/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HRSH455/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HRSH455/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HRSH455/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HRSH455/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HRSH455/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/HRSH455/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HRSH455/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/HRSH455/DSA_prac/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HRSH455/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HRSH455/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/HRSH455/DSA_prac/tree/master/0016-3sum-closest) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/HRSH455/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/HRSH455/DSA_prac/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HRSH455/DSA_prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/HRSH455/DSA_prac/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/HRSH455/DSA_prac/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/HRSH455/DSA_prac/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/HRSH455/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/HRSH455/DSA_prac/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/HRSH455/DSA_prac/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HRSH455/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HRSH455/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HRSH455/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/HRSH455/DSA_prac/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/HRSH455/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HRSH455/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HRSH455/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HRSH455/DSA_prac/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/HRSH455/DSA_prac/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/HRSH455/DSA_prac/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/HRSH455/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HRSH455/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |

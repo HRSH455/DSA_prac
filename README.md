@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/HRSH455/DSA_prac/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HRSH455/DSA_prac/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HRSH455/DSA_prac/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/HRSH455/DSA_prac/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HRSH455/DSA_prac/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HRSH455/DSA_prac/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HRSH455/DSA_prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/HRSH455/DSA_prac/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/HRSH455/DSA_prac/tree/master/0056-merge-intervals) |
 ## Counting
 |  |
 | ------- |

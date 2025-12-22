@@ -224,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HRSH455/DSA_prac/tree/master/0100-same-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/HRSH455/DSA_prac/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

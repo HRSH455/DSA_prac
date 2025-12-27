@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HRSH455/DSA_prac/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HRSH455/DSA_prac/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/HRSH455/DSA_prac/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/HRSH455/DSA_prac/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/HRSH455/DSA_prac/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HRSH455/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HRSH455/DSA_prac/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/HRSH455/DSA_prac/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/HRSH455/DSA_prac/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/HRSH455/DSA_prac/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/HRSH455/DSA_prac/tree/master/0860-lemonade-change) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |

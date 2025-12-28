@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/HRSH455/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HRSH455/DSA_prac/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HRSH455/DSA_prac/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/HRSH455/DSA_prac/tree/master/2402-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HRSH455/DSA_prac/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HRSH455/DSA_prac/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/HRSH455/DSA_prac/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HRSH455/DSA_prac/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HRSH455/DSA_prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2402-meeting-rooms-iii](https://github.com/HRSH455/DSA_prac/tree/master/2402-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HRSH455/DSA_prac/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HRSH455/DSA_prac/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HRSH455/DSA_prac/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HRSH455/DSA_prac/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/HRSH455/DSA_prac/tree/master/2402-meeting-rooms-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HRSH455/DSA_prac/tree/master/0239-sliding-window-maximum) |
+| [2402-meeting-rooms-iii](https://github.com/HRSH455/DSA_prac/tree/master/2402-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/HRSH455/DSA_prac/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HRSH455/DSA_prac/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Queue
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/HRSH455/DSA_prac/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/HRSH455/DSA_prac/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/HRSH455/DSA_prac/tree/master/0455-assign-cookies) |
+| [2402-meeting-rooms-iii](https://github.com/HRSH455/DSA_prac/tree/master/2402-meeting-rooms-iii) |
 ## Counting
 |  |
 | ------- |
